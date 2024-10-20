@@ -10,7 +10,7 @@ Hi, I'm Artem Egamediev, the  other alter of Rifqy Hamdani
 ##
 <p align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=rifrifqyqy&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=artemmakarovin&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=artemmakarovin&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=artemmakarovin&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 
