@@ -1,5 +1,5 @@
 ## Greetings | Здравствуйте
-Hi, I'm Artem Egamediev, the  other alter of Rifqy Hamdani
+Hi, I'm Artem Egamediev, another alter of Rifqy Hamdani
 
 
 <p align="center" style="width: 100%;">
