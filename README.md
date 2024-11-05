@@ -14,6 +14,6 @@ Hi, I'm Artem Egamediev, another alter of Rifqy Hamdani
   [![trophy](https://github-profile-trophy.vercel.app/?username=artemmakarovin&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=artemmakarovin&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ##
-![Rifqy's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rifrifqyqy&custom_title=Liluo%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Rifqy's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rifrifqyqy&custom_title=Liluo%20GitHub%20Activity%20Graph&theme=gruvbox&area=true)
 
 
