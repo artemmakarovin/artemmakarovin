@@ -8,7 +8,7 @@ Hi, I'm Artem Egamediev, another alter of Rifqy Hamdani
 </p>
 
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artemmakarovin&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifrifqyqy&show_icons=true&theme=gruvbox)
 
 ##
   [![trophy](https://github-profile-trophy.vercel.app/?username=artemmakarovin&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=artemmakarovin&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
